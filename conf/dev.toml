@@ -1,21 +1,21 @@
 [[profil]]
-name = 'work1'
+    name = 'work1'
 
-[[profil.server]]
-name = 'serv1w1'
-address = '127.0.0.1'
+    [[profil.server]]
+    name = 'serv1w1'
+    address = '127.0.0.1'
 
-[[profil.server]]
-name = 'serv2w1'
-address = '127.0.0.2'
+    [[profil.server]]
+    name = 'serv2w1'
+    address = '127.0.0.2'
 
 [[profil]]
-name = 'work2'
+    name = 'work2'
 
-[[profil.server]]
-name = 'serv1w2'
-address = '128.0.0.1'
+    [[profil.server]]
+    name = 'serv1w2'
+    address = '128.0.0.1'
 
-[[profil.server]]
-name = 'serv2w2'
-address = '128.0.0.2'
+    [[profil.server]]
+    name = 'serv2w2'
+    address = '128.0.0.2'
